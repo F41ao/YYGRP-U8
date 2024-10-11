@@ -46,7 +46,7 @@ oooooo   oooo oooooo   oooo   .oooooo.    ooooooooo.   ooooooooo.           oooo
     print(f"[+]{sys.argv[0]} --url htttp://www.xxx.com 即可进行单个漏洞检测")
     print(f"[+]{sys.argv[0]} --file targetUrl.txt 即可对选中文档中的网址进行批量检测")
     print(f"[+]{sys.argv[0]} --help 查看更多详细帮助信息")
-    print("--author:xhonger 联系方式：01xhonger@gmail.com".rjust(100," "))
+    print("--author:F41ao 联系方式：@gmail.com".rjust(100," "))
 
 # 主程序方法，进行调用
 def main():
